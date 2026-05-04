@@ -2,7 +2,7 @@
 <!-- Muhammad Farhan GitHub Profile -->
 <!-- ========================= -->
 
-<h1 align="center">👋 Muhammad Farhan</h1>
+<h1 align="center">Muhammad Farhan</h1>
 
 <h3 align="center">Frontend Developer | React JS | Responsive Design | HTML,CSS,Js | Bootstrap | Tailwind CSS </h3>
 
