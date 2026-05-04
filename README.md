@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Developer | React JS | Responsive Design | HTML,CSS,Js | Bootstrap | Tailwind CSS </h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+JS+%7C+Responsive+Design+%7C+HTML%2C+CSS%2C+JS+%7C+Bootstrap+%7C+Tailwind+CSS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+JS;Responsive+Design;HTML%2C+CSS%2C+JS;Bootstrap;Tailwind+CSS" />
 </p>
 
 ---
