@@ -1,179 +1,115 @@
+<!-- Muhammad Farhan | GitHub Profile README -->
+<!-- SEO: Muhammad Farhan, Frontend Developer, Islamabad Pakistan, HTML CSS JavaScript React Bootstrap Tailwind WordPress, Part-time Internship Fresher Developer Islamabad, muhammadfarhandev, muhammad-farhan-dev, UI Developer Pakistan -->
+
 <div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Muhammad%20Farhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" alt="Muhammad Farhan - Frontend Developer" />
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Farhan;Frontend+Developer+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+Expert;React+%7C+Tailwind+%7C+Bootstrap;WordPress+Developer;Building+Beautiful+UIs+%F0%9F%8E%A8)](https://git.io/typing-svg)
-
-<!-- Profile Views & Followers -->
+<h1>Muhammad Farhan</h1>
+<p><strong>Frontend Developer</strong> &nbsp;·&nbsp; Islamabad, Pakistan &nbsp;·&nbsp; 2–3 Years Experience</p>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=muhammad-farhan-dev&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/muhammad-farhan-dev?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://muhammadfarhandev.42web.io">Website</a> &nbsp;·&nbsp;
+  <a href="mailto:findfarhan821@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/923354051272">WhatsApp</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@muhammadfarhandev">YouTube</a>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=muhammad-farhan-dev&label=Profile+Views&color=0e7490&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-<!-- About Me Section -->
-## 👨‍💻 About Me
+## About
 
-```javascript
-const farhan = {
-  name:       "Muhammad Farhan",
-  title:      "Frontend Developer",
-  location:   "Islamabad, Pakistan 🇵🇰",
-  experience: "2–3 Years",
-  status:     "Open to Part-time | Internship | Fresher Jobs",
+I am a Frontend Developer based in Islamabad, Pakistan, with 2 to 3 years of hands-on experience building modern, responsive web interfaces. I specialize in crafting clean UI designs using HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. I have delivered client projects including a Blog Post Website and a Personal Portfolio, and I continue to sharpen my skills through consistent practice and real-world work.
 
-  skills: {
-    languages:   ["HTML5", "CSS3", "JavaScript"],
-    frameworks:  ["React.js", "Bootstrap", "Tailwind CSS"],
-    cms:         ["WordPress"],
-    tools:       ["Git", "GitHub", "VS Code", "Figma"],
-  },
-
-  projects: [
-    "Book UI Design",
-    "Personal Website",
-    "Business Website",
-    "Animation Website",
-    "Blog Post Website (Client)",
-    "Personal Website (Client)",
-  ],
-
-  currentFocus: "Improving React.js & advanced animations",
-  contact:      "findfarhan821@gmail.com",
-};
-```
+I am currently open to **part-time positions, internships, and fresher-level roles** in Islamabad.
 
 ---
 
-<!-- Skills Section -->
-## 🛠️ Tech Stack & Skills
+## Tech Stack
+
+**Languages**
+HTML5 &nbsp; CSS3 &nbsp; JavaScript (ES6+)
+
+**Frameworks & Libraries**
+React.js &nbsp; Tailwind CSS &nbsp; Bootstrap
+
+**CMS & Tools**
+WordPress &nbsp; Git &nbsp; GitHub &nbsp; VS Code &nbsp; Figma
+
+---
+
+## Projects
+
+| Project | Type | Stack |
+|---|---|---|
+| Book UI Design | Personal | HTML, CSS, JS |
+| Personal Website | Personal | HTML, CSS, JS |
+| Business Website | Personal | HTML, CSS, Bootstrap |
+| Animation Website | Personal | HTML, CSS, JS |
+| Blog Post Website | Client | WordPress |
+| Personal Website | Client | HTML, CSS, JS |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-
-### 🎨 Frontend Core
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧰 Tools & CMS
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-farhan-dev&show_icons=true&hide_border=true&count_private=true&title_color=0e7490&icon_color=0e7490&text_color=374151&bg_color=f9fafb" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-farhan-dev&layout=compact&hide_border=true&title_color=0e7490&text_color=374151&bg_color=f9fafb&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+## Currently
+
+- Working on React.js component libraries and advanced CSS animation techniques
+- Learning Next.js, TypeScript, and modern React patterns
+- Creating frontend tutorials on [YouTube](https://www.youtube.com/@muhammadfarhandev)
+- Open to collaborate on open-source frontend projects
+
+---
+
+## Connect
+
+<table>
+<tr>
+<td><strong>Website</strong></td>
+<td><a href="https://muhammadfarhandev.42web.io">muhammadfarhandev.42web.io</a></td>
+</tr>
+<tr>
+<td><strong>Email</strong></td>
+<td><a href="mailto:findfarhan821@gmail.com">findfarhan821@gmail.com</a></td>
+</tr>
+<tr>
+<td><strong>Phone / WhatsApp</strong></td>
+<td><a href="https://wa.me/923354051272">+92 335-4051272</a></td>
+</tr>
+<tr>
+<td><strong>YouTube</strong></td>
+<td><a href="https://www.youtube.com/@muhammadfarhandev">Muhammad Farhan Dev</a></td>
+</tr>
+<tr>
+<td><strong>Instagram</strong></td>
+<td><a href="https://www.instagram.com/muhammadfarhan.dev">muhammadfarhan.dev</a></td>
+</tr>
+<tr>
+<td><strong>Facebook</strong></td>
+<td><a href="https://www.facebook.com/profile.php?id=61589209651495">Muhammad Farhan</a></td>
+</tr>
+<tr>
+<td><strong>X (Twitter)</strong></td>
+<td><a href="https://x.com/m_farhandev">m_farhandev</a></td>
+</tr>
+<tr>
+<td><strong>Behance</strong></td>
+<td><a href="https://www.behance.net/muhammadfarhan-dev">muhammadfarhan-dev</a></td>
+</tr>
+<tr>
+<td><strong>WhatsApp Channel</strong></td>
+<td><a href="https://whatsapp.com/channel/0029Vb8GtTZ6mYPLeNwrgI3h">Muhammad Farhan</a></td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-farhan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&bg_color=0d1117" alt="Muhammad Farhan's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-farhan-dev&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&background=0d1117&dates=888888&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-farhan-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=0ea5e9&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-farhan-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true" alt="GitHub Activity Graph" />
-
+<sub>Frontend Developer · Islamabad, Pakistan · Open to Work</sub>
 </div>
-
----
-
-<!-- Projects Section -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📚 **Book UI Design** | Clean, modern book listing & reading UI | HTML, CSS, JS |
-| 👤 **Personal Website** | Portfolio showcasing skills & work | HTML, CSS, JS |
-| 💼 **Business Website** | Professional business landing page | HTML, CSS, Bootstrap |
-| ✨ **Animation Website** | Creative motion & interaction design | HTML, CSS, GSAP |
-| 📝 **Blog Post Website** *(Client)* | Full blog with posts & categories | WordPress |
-| 🌐 **Personal Website** *(Client)* | Custom portfolio for client | HTML, CSS, JS |
-
-</div>
-
----
-
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-farhan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- Currently Doing Section -->
-## 🔥 What I'm Up To
-
-- 🔭 Currently working on **React.js projects & advanced CSS animations**
-- 🌱 Learning **Next.js, TypeScript & advanced React patterns**
-- 👯 Looking to **collaborate on open source frontend projects**
-- 💼 Seeking **Part-time / Internship / Fresher jobs in Islamabad**
-- 📹 Creating **tutorials & content** on my [YouTube Channel](https://www.youtube.com/@muhammadfarhandev)
-- 📫 Reach me at **findfarhan821@gmail.com**
-
----
-
-<!-- Connect Section -->
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-muhammadfarhandev.42web.io-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadfarhandev.42web.io)
-[![Email](https://img.shields.io/badge/Email-findfarhan821@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:findfarhan821@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20335--4051272-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923354051272)
-
-[![YouTube](https://img.shields.io/badge/YouTube-Muhammad%20Farhan%20Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@muhammadfarhandev)
-[![Instagram](https://img.shields.io/badge/Instagram-muhammadfarhan.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadfarhan.dev)
-[![Facebook](https://img.shields.io/badge/Facebook-Muhammad%20Farhan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61589209651495)
-
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-m__farhandev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m_farhandev)
-[![Behance](https://img.shields.io/badge/Behance-muhammadfarhan--dev-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/muhammadfarhan-dev)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-Muhammad%20Farhan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb8GtTZ6mYPLeNwrgI3h)
-
-</div>
-
----
-
-<!-- Fun Footer -->
-<div align="center">
-
-### 💡 Dev Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-<!-- Snake Animation (Optional — set up GitHub Actions to enable) -->
-<!-- <img src="https://github.com/muhammad-farhan-dev/muhammad-farhan-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer" alt="Footer Wave" />
-
-</div>
-
-<!-- SEO Meta — GitHub renders this as hidden content, helps discoverability -->
-<!--
-  Keywords: Muhammad Farhan, Frontend Developer, Islamabad, Pakistan,
-  HTML CSS JavaScript React Bootstrap Tailwind WordPress Developer,
-  Part-time Developer Islamabad, Fresher Frontend Developer Pakistan,
-  muhammadfarhandev, muhammad-farhan-dev, Web Developer Portfolio,
-  UI Designer, Open to Work, Hire Frontend Developer Islamabad
--->
